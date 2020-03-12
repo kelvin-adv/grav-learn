@@ -63,7 +63,7 @@ Another method is to clone Grav from the GitHub repository, and then run a simpl
    composer install --no-dev -o
    [/prism]
 
-3. Install the **plugin** and **theme dependencies** by using the [Grav CLI application](../../advanced/grav-cli) `bin/grav`:
+3. Install the **plugin** and **theme dependencies** by using the [Grav CLI application](../../cli-console/grav-cli) `bin/grav`:
 
    [prism classes="language-bash command-line"]
    cd ~/webroot/grav
